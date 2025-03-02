@@ -1,5 +1,5 @@
 - Introduction
-👋 Hello there! Welcome to my GitHub profile! I'm [ChaturvediBytes], a passionate and dedicated computer science student with an insatiable curiosity for all things tech. This is where I document my journey through the exciting world of programming, problem-solving, and continuous learning.
+👋 Hello there! Welcome to my GitHub profile! I'm [Harsh Vardhan Chaturvedi], a passionate and dedicated computer science student with an insatiable curiosity for all things tech. This is where I document my journey through the exciting world of programming, problem-solving, and continuous learning.
 -  I'm currently pursuing my degree in Computer Science, and my journey so far has been nothing short of exhilarating. From diving into the intricacies of algorithms to crafting elegant code that brings ideas to life, I find joy in every challenge that comes my way.
 
 💡 My interests span a wide spectrum within the field of computer science, including software development, artificial intelligence, data structures, and more. I believe that technology has the power to reshape the world and enhance lives, and I'm determined to be at the forefront of that transformation.
@@ -24,7 +24,7 @@ What to Expect
 Let's Connect!
 🤝 I'm thrilled to connect with fellow learners, developers, and tech enthusiasts. Whether you want to collaborate on a project, share insights, or just have a friendly chat, feel free to reach out to me through the following platforms:
 
-Email: Hvc831@gmail.com
+Email: Hvchaturvedi1@gmail.com
 LinkedIn: https://www.linkedin.com/in/harsh-vardhan-chaturvedi-4a05b9231
 
 <!---
